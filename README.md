@@ -7,7 +7,17 @@ Burglar security between 1 Village and 2 Apartments (using VPN).
 
 **Course**: Advanced Computer Networks, Monsoon 2020<br>
 **Taught by**: Prof. Shatrunjay Rawat
+
 <br>
+
+
+#### Presentations
+
+- [Wide Area Network for File sharing, Energy & Gas metering, Fire alarm, Burglar security between 1 Village & 2 Apartments (WAN Only)](https://gist.github.com/wolfram77/86b29051aaebe5669ed2cf495d2bb852)
+- [LAN Design for 15 flats : Park Pride Apartments](https://gist.github.com/wolfram77/5612605f243438c6be954c0e6cf69320)
+- [LAN Design for Golf View Apartments](https://gist.github.com/wolfram77/f4b403b31f60d562b0ab05c821e1fe3f)
+- [LAN Design for 1000 houses : Abburu Village](https://gist.github.com/wolfram77/69d96789055f3b17fe36476180d68989)
+
 <br>
 
 
