@@ -63,6 +63,8 @@ See [WAN Design.pdf] for full design, [LAN Design 1.pdf], [LAN Design 2.pdf],
 [LAN Design 3.pdf] for individual LAN Designs, [Articles] for references,
 [Diagrams] for XML diagrams, [Images] for diagrams exported as PNG.
 
+![](https://ga-beacon.deno.dev/G-4FTHWYCNMC:Ze0vK3cdTmSz-bzSssU1-Q/github.com/iiithf/wan-design)
+
 [WAN Design.pdf]: WAN%20Design.pdf
 [LAN Design 1.pdf]: LAN%20Design%201.pdf
 [LAN Design 2.pdf]: LAN%20Design%202.pdf
